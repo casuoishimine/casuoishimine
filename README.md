@@ -1,7 +1,7 @@
 ### Olá! Realmente meu nome é Casuo Ishimine! 
 
 - 🔭 Trabalho com Edição Audiovisual e Gestão de Tráfego
-- 🌱 Estudo ADS (1º fase hehe)
+- 🌱 Estudo ADS (1º fase)
 
  <div>
   <a href="https://github.com/casuoishimine">
